@@ -1,2 +1,2 @@
 # TripleX
-Developed for Udemy course
+Simple text based game developed for Udemy course.
